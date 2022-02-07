@@ -1,0 +1,1 @@
+# ORBIT-Few-Shot-Object-Recognition-Challenge-2022
